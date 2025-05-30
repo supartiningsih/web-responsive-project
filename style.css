@@ -6,6 +6,7 @@ body {
   flex-direction: column;
   min-height: 95vh;
 }
+
 .main {
   flex: 1;
 }
@@ -13,9 +14,11 @@ body {
 h1 {
   font-size: 5rem;
 }
+
 .card {
   width: 45%;
 }
+
 .warna {
   color: navy;
 }
